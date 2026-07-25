@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SAIFRAHMAN07/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SAIFRAHMAN07/DSA/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SAIFRAHMAN07/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SAIFRAHMAN07/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SAIFRAHMAN07/DSA/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SAIFRAHMAN07/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
