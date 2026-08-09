@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAIFRAHMAN07/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SAIFRAHMAN07/DSA/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SAIFRAHMAN07/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SAIFRAHMAN07/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/SAIFRAHMAN07/DSA/tree/master/0844-backspace-string-compare) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0234-palindrome-linked-list) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SAIFRAHMAN07/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0234-palindrome-linked-list) |
 ## Sorting
