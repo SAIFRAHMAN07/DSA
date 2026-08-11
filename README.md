@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SAIFRAHMAN07/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SAIFRAHMAN07/DSA/tree/master/0844-backspace-string-compare) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/SAIFRAHMAN07/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SAIFRAHMAN07/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/SAIFRAHMAN07/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
