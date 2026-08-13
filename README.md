@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SAIFRAHMAN07/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/SAIFRAHMAN07/DSA/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SAIFRAHMAN07/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SAIFRAHMAN07/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/SAIFRAHMAN07/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/SAIFRAHMAN07/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
