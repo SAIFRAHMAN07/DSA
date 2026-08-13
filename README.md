@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/SAIFRAHMAN07/DSA/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SAIFRAHMAN07/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SAIFRAHMAN07/DSA/tree/master/0704-binary-search) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/SAIFRAHMAN07/DSA/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SAIFRAHMAN07/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
