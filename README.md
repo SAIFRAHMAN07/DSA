@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SAIFRAHMAN07/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SAIFRAHMAN07/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
