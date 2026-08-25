@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAIFRAHMAN07/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SAIFRAHMAN07/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/SAIFRAHMAN07/DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/SAIFRAHMAN07/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SAIFRAHMAN07/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SAIFRAHMAN07/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
