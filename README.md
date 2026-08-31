@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SAIFRAHMAN07/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SAIFRAHMAN07/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/SAIFRAHMAN07/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAIFRAHMAN07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAIFRAHMAN07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SAIFRAHMAN07/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/SAIFRAHMAN07/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/SAIFRAHMAN07/DSA/tree/master/0290-word-pattern) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
