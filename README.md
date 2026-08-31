@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SAIFRAHMAN07/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SAIFRAHMAN07/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SAIFRAHMAN07/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SAIFRAHMAN07/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/SAIFRAHMAN07/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SAIFRAHMAN07/DSA/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/SAIFRAHMAN07/DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/SAIFRAHMAN07/DSA/tree/master/0844-backspace-string-compare) |
