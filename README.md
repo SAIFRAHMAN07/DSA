@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SAIFRAHMAN07/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SAIFRAHMAN07/DSA/tree/master/0383-ransom-note) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SAIFRAHMAN07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SAIFRAHMAN07/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAIFRAHMAN07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/SAIFRAHMAN07/DSA/tree/master/0844-backspace-string-compare) |
 ## Queue
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SAIFRAHMAN07/DSA/tree/master/0383-ransom-note) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
