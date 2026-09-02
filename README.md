@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SAIFRAHMAN07/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
