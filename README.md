@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SAIFRAHMAN07/DSA/tree/master/0595-big-countries) |
 | [1587-bank-account-summary-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/SAIFRAHMAN07/DSA/tree/master/1661-average-time-of-process-per-machine) |
+| [1757-recyclable-and-low-fat-products](https://github.com/SAIFRAHMAN07/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
 | ------- |
