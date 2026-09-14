@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SAIFRAHMAN07/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/SAIFRAHMAN07/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SAIFRAHMAN07/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
