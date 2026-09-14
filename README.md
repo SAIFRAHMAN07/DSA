@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/SAIFRAHMAN07/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/SAIFRAHMAN07/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SAIFRAHMAN07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SAIFRAHMAN07/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SAIFRAHMAN07/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SAIFRAHMAN07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
