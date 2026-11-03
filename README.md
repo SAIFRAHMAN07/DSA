@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SAIFRAHMAN07/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SAIFRAHMAN07/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/SAIFRAHMAN07/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SAIFRAHMAN07/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SAIFRAHMAN07/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SAIFRAHMAN07/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAIFRAHMAN07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAIFRAHMAN07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
